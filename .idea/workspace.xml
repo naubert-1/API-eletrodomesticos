@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2712833e-41bb-4824-afbf-b0a5979f1f4c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/src/main/java/br/edu/atitus/productservice/ProductServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/src/main/java/br/edu/atitus/productservice/controllers/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/src/main/java/br/edu/atitus/productservice/dtos/ProductDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/src/main/java/br/edu/atitus/productservice/entities/ProductEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/src/main/java/br/edu/atitus/productservice/repositories/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/src/main/resources/db_migration/V1__CreateTableTbProduct .sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/src/main/resources/db_migration/V2__PopulateTableTbProduct.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/src/test/java/br/edu/atitus/productservice/ProductServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/target/classes/br/edu/atitus/productservice/ProductServiceApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/target/classes/br/edu/atitus/productservice/controllers/ProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/target/classes/br/edu/atitus/productservice/dtos/ProductDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/target/classes/br/edu/atitus/productservice/entities/ProductEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/target/classes/br/edu/atitus/productservice/repositories/ProductRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/target/classes/db_migration/V1__CreateTableTbProduct .sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/target/classes/db_migration/V2__PopulateTableTbProduct.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservices/product-service/target/test-classes/br/edu/atitus/productservice/ProductServiceApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ParadLingProg_202601.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/Apresentacao_Aula01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/demo/src/main/java/com/example/demo/controllers/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/demo/src/main/java/com/example/demo/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/demo/src/main/java/com/example/demo/repositories/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/demo/src/main/java/com/example/demo/services/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/CompositionFunctions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/Entregavel/EntregavelLista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/FatorialExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/FatorialExamples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/FatorialExamples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/FunctionalInterfacesExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/ImpureFunctionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/LambdaFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/LambdaFunctions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/LambdaFunctions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/MultithreadSimples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/PureFunctionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/TriFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/TriFunction2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/ValidaParComFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/codes/ValidaParComFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/codes/ChainingMethodStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/codes/ChainingMethodWithPersons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/codes/LogAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/codes/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/codes/Names.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/codes/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/codes/PersonWithChainingMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/codes/StreamParallelChainingMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/codes/StreamPipelineExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/codes/family.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/codes/myfamily.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/Classe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/DIP/ExampleDIP.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/DIP/NoViolation/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/DIP/NoViolation/MySQLPedidoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/DIP/NoViolation/PedidoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/DIP/NoViolation/PedidoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/DIP/NoViolation/PostgreSQLPedidoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/DIP/Violation/MySQLPedidoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/DIP/Violation/PedidoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/ISP/NoViolation/Alimentavel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/ISP/NoViolation/Programador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/ISP/NoViolation/Robo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/ISP/NoViolation/Trabalhavel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/ISP/Violation/Programador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/ISP/Violation/Robo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/ISP/Violation/Trabalhador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/Interface2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/LSP/NoViolation/Autenticavel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/LSP/NoViolation/ControleAcesso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/LSP/NoViolation/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/LSP/NoViolation/UsuarioConvidado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/LSP/Violation/ControleAcesso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/LSP/Violation/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/LSP/Violation/UsuarioConvidado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/OCP/NoViolation/CalculadoraDesconto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/OCP/NoViolation/Desconto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/OCP/NoViolation/DescontoComum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/OCP/NoViolation/DescontoVIP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/OCP/Violation/CalculadoraDesconto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/SRP/NoViolation/RelatorioRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/SRP/NoViolation/RelatorioService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/SRP/Violation/RelatorioService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/SRP/Violation/RelatorioServiceV2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/entregavel/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/Codes/entregavel/MainArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula05/entregavel/ISP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula05/entregavel/ISPCorrigido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula05/entregavel/LSP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula05/entregavel/LSPCorrigido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula05/entregavel/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/config-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/config-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/currency-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/currency-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/greeting-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/greeting-service/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Cg6DpqEcCB2hy439Oncks5Hhar" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHELLCHECK.PATH&quot;: &quot;I do mind&quot;,
+    &quot;Spring Boot.ProductServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.microservice.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.productServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Eletrodomesticos-API&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Eletrodomesticos-API\microservices" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvnw.cmd spring-boot:run" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="Eletrodomesticos-API" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <module name="" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProductServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="25" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="product-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.edu.atitus.productservice.ProductServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2712833e-41bb-4824-afbf-b0a5979f1f4c" name="Changes" comment="" />
+      <created>1776794748599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776794748599</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Eletrodomesticos_API$ProductServiceApplication.ic" NAME="ProductServiceApplication Coverage Results" MODIFIED="1777216222149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
