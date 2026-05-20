@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2712833e-41bb-4824-afbf-b0a5979f1f4c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/.idea/microservices.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/.idea/sqldialects.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/product-service/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/product-service/target/classes/br/edu/atitus/productservice/ProductServiceApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/product-service/target/classes/br/edu/atitus/productservice/clients/CurrencyClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/product-service/target/classes/br/edu/atitus/productservice/clients/CurrencyClientFallback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/product-service/target/classes/br/edu/atitus/productservice/clients/CurrencyResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/product-service/target/classes/br/edu/atitus/productservice/controllers/ProductController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/product-service/target/classes/br/edu/atitus/productservice/dtos/ProductDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/product-service/target/classes/br/edu/atitus/productservice/entities/ProductEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/product-service/target/classes/br/edu/atitus/productservice/repositories/ProductRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/product-service/target/classes/db_migration/V1__CreateTableTbProduct .sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/product-service/target/classes/db_migration/V2__PopulateTableTbProduct.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices/product-service/target/test-classes/br/edu/atitus/productservice/ProductServiceApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,8 +77,9 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\Eletrodomesticos-API" />
-      <recent name="C:\Users\User\Desktop\Eletrodomesticos-API\greeting-service" />
       <recent name="C:\Users\User\Desktop\Eletrodomesticos-API\microservices" />
+      <recent name="C:\Users\User\Desktop\Eletrodomesticos-API\discovery-service" />
+      <recent name="C:\Users\User\Desktop\Eletrodomesticos-API\greeting-service" />
     </key>
   </component>
   <component name="RunAnythingCache">
